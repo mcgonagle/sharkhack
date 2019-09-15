@@ -332,6 +332,19 @@ k8s
 
 ----
 
+:id: docker-desktop
+
+Docker Desktop
+==============
+
+https://www.docker.com/products/docker-desktop
+
+.. note::
+
+    * note
+
+----
+
 :id: headers
 
 Headers
