@@ -9,12 +9,15 @@
         :height: 300px
         :width: 600px
         :align: center
+        :target: https://armory.io
 
 .. footer::
     .. image:: images/spinnaker.png 
         :height: 70px
         :width: 90px
         :align: center
+        :target: https://www.spinnaker.io/
+
     
 
 ----
@@ -165,6 +168,20 @@ Fun Learning Strategies
 
 ----
 
+:id: instrument 
+
+Play your Computer Like an Instrument
+=====================================
+
+.. image::  https://cdn.shopify.com/s/files/1/0182/0563/products/MaestroVNTop_682x1800_7159c927-5752-43e0-9c2e-a19df87bf18b_800x.JPG?v=1551819005
+    :height: 600px
+    :width: 600px
+
+.. note::
+  * note
+
+----
+
 :id: devops-definition
 
 DevOps Definition
@@ -220,7 +237,11 @@ DevOps Practices
 hovercraft
 ==========
 
-https://hovercraft.readthedocs.io/en/latest/index.html
+.. image:: https://www.hoverstream.com/wp-content/uploads/2016/01/Marlin-II_Main.png
+    :height: 600px
+    :width: 600px
+    :align: center 
+    :target: https://hovercraft.readthedocs.io/en/latest/index.html
 
 .. note::
 
@@ -301,7 +322,9 @@ Make a Change and then....
 
 .. code:: python
 
-    docker build --tag=mcgonagle/sharkhack . && docker run -it --rm -p "9000:9000" mcgonagle/sharkhack
+    docker build --tag=mcgonagle/sharkhack . 
+    
+    docker run -it --rm -p "9000:9000" mcgonagle/sharkhack
 
 .. note::
 
@@ -337,7 +360,81 @@ k8s
 Docker Desktop
 ==============
 
-https://www.docker.com/products/docker-desktop
+.. image:: https://www.docker.com/sites/default/files/d8/styles/large/public/2019-08/docker_desktop_enterprise_image.jpg?itok=KmkLTRBv
+    :height: 600px
+    :width: 800px
+    :align: center 
+    :target: https://www.docker.com/products/docker-desktop
+
+
+
+.. note::
+
+    * note
+
+----
+
+:id: github-desktop
+
+GitHub Desktop
+==============
+
+.. image:: https://desktop.github.com/images/github-desktop-screenshot-mac.png 
+    :height: 600px
+    :width: 800px
+    :align: center 
+    :target: https://desktop.github.com/ 
+
+.. note::
+
+    * note
+
+----
+
+:id: visual-studio-code
+
+Visual Studio Code
+==================
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png
+    :height: 600px
+    :width: 600px
+    :align: center 
+    :target: https://code.visualstudio.com/
+
+.. note::
+
+    * note
+
+----
+
+:id: homebrew
+
+Home Brew
+=========
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Homebrew_logo.svg/1200px-Homebrew_logo.svg.png
+    :height: 600px
+    :width: 600px
+    :align: center 
+    :target: https://brew.sh/
+
+.. note::
+
+    * note
+
+----
+
+:id: brew-install
+
+brew install
+============
+
+.. code:: python
+
+   brew install kubernetes-helm
+
+   brew install kubectx
 
 .. note::
 
@@ -350,7 +447,14 @@ https://www.docker.com/products/docker-desktop
 reStructured Text
 =================
 
-https://www.docker.com/products/docker-desktop
+.. image:: https://i1.wp.com/itsfoss.com/wp-content/uploads/2018/06/formiko-editor-800x449.jpeg?resize=800%2C449&ssl=1
+    :height: 600px
+    :width: 600px
+    :align: center 
+    :target: http://docutils.sourceforge.net/rst.html
+
+
+
 
 .. note::
 
