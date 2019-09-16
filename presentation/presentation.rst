@@ -63,8 +63,8 @@ Agenda
 
 :id: who-am-i
 
-whoami?
-=======
+/usr/bin/whoami
+===============
 Thomas A. McGonagle
 -------------------
 Solutions Architect
@@ -300,7 +300,7 @@ Dog Food
 :id: ci-cd
 
 CI/CD
-========
+=====
 
 .. image:: https://www.talend.com/wp-content/uploads/DevOps-Talend-1.png
     :height: 600px
