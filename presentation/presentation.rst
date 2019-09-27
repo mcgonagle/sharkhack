@@ -1,6 +1,6 @@
-:title: Spinnaker & k8s
+:title: Play your Computer like an Instrument
 :author: Thomas A. McGonagle
-:keywords: Spinnaker, k8s, SharkHack
+:keywords: Spinnaker, K8s, SharkHack
 :skip-help: true
 :css: presentation.css
 
@@ -18,14 +18,12 @@
         :align: center
         :target: https://www.spinnaker.io/
 
-    
-
 ----
 
 :id: title-slide
 
-Spinnaker & k8s
-===============
+How to Play your Computer Like an Instrument
+============================================
 SharkHack
 ---------
 9/27/19 - 9/28/19
@@ -71,8 +69,8 @@ Solutions Architect
 -------------------
 thomas.mcgonagle@armory.io
 --------------------------
-@mcgonagle
-----------
+https://go.armory.io/thomas
+---------------------------
 
 .. image:: images/thomas_mcgonagle.png
     :height: 400px
@@ -91,7 +89,7 @@ Introductions
 
 * Name
 
-* Role
+* School - Major
 
 * Favorite Terrible Movie 
 
@@ -120,7 +118,7 @@ Spinnaker Metaphor
 Workshop Goals
 ==============
 
-* Grok Spinnaker
+* Grok DevOps
 
 * ??
 
@@ -334,7 +332,7 @@ Make a Change and then....
 
 :id: k8s
 
-k8s
+K8s
 ===
 
 .. code:: python
@@ -452,9 +450,6 @@ reStructured Text
     :width: 600px
     :align: center 
     :target: http://docutils.sourceforge.net/rst.html
-
-
-
 
 .. note::
 
