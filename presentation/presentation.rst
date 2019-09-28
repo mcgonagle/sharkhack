@@ -31,7 +31,7 @@ SharkHack
 
 .. note::
 
-  * note
+  * This is my first note.
 
 
 ----
