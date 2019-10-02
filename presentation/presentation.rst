@@ -24,8 +24,8 @@
 
 How to Play your Computer Like an Instrument
 ============================================
-SharkHack
----------
+SharkHack - Working with Riley on feature a
+------------------------------
 9/27/19 - 9/28/19
 -----------------
 
